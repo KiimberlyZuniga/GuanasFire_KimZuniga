@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "749851471980",
+    "firebase_url": "https://guanasfirekimzuniga.firebaseio.com",
+    "project_id": "guanasfirekimzuniga",
+    "storage_bucket": "guanasfirekimzuniga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749851471980:android:2715b9931c9697e550a849",
+        "android_client_info": {
+          "package_name": "com.example.guanasfire_kimzuniga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749851471980-97vugtqt4fmf1vbppl2bvmadk9aah375.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guanasfire_kimzuniga",
+            "certificate_hash": "3c0ca9657b8df76e9c325aa6a58d6e4f61ec2b8a"
+          }
+        },
+        {
+          "client_id": "749851471980-3dpt1j5pn9j32eb5gf2ir9r42oruvkv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKpXwDeSpzXTg0SdNyaG-mSKrDiBc-LPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749851471980-3dpt1j5pn9j32eb5gf2ir9r42oruvkv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
